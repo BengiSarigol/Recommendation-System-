@@ -58,7 +58,7 @@ user_items = is_model.get_user_items(user_id)
 
 print(user_items)
 
-#○gelenlerden bir dataset oluşturabilrsin  bunu birleştirip sonra knnn fit yapabilrisin
+
 
 import pickle
 with open('model.pkl','wb') as file:
